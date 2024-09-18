@@ -2,6 +2,23 @@
 
 <img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p>
+
+  <h1 align="center"><a href="https://peterhan.dev">Hi, I'm Hisham 👋</a></h1>
+
+<p align="center">
+  <a href="https://github.com/hishamabdalla">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/hisham-abdalla-/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+ 
+
+<p align="center">
+  <a href="https://hishvmm">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  
+</p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamabdalla&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a></p>
 
 

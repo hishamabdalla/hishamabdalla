@@ -2,7 +2,6 @@
 
 <img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p>
-
   <h1 align="center">Hi, I'm Hisham 👋</h1>
 
 <p align="center">

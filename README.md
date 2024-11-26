@@ -2,7 +2,7 @@
 
 <img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p>
-  <h1 align="center">Hi, I'm Hisham 👋</h1>
+  <h1 align="center">Hi, I'm Hisham  👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/hisham-abdalla-/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>

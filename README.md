@@ -11,7 +11,6 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hishamabdalla&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hishamabdalla&theme=ocean-dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 

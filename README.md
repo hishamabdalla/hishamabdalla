@@ -11,6 +11,5 @@
   </a>
 </p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hishamabdalla&theme=ocean-dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hishamabdalla&theme=github-dark-blue&card_width=488&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 

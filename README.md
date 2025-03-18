@@ -1,4 +1,3 @@
-#
 <h1 align="center"> Hi, I'm Hisham Abdalla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&center=true&vCenter=true&width=600&height=100&lines=Back+End+Developer;Computer+Science+Student;Always+learning+new+things"" alt="Typing SVG" /></a><p align="left">
@@ -14,7 +13,7 @@
 - 📄 Check out my **Resume** [here](https://drive.google.com/file/d/1XQ36HtfVoUx7SlKtpfdbEqGaPlb94kk4/view?usp=drive_link)
 
   <br>
----
+#
 
 
 ### 📌 Connect with me
@@ -34,7 +33,7 @@
   </a>
 </p>
 
-
+#
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hishamabdalla&theme=github-dark-blue&card_width=488&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>

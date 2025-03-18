@@ -4,13 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&center=true&vCenter=true&width=600&height=100&lines=Back+End+Developer;Computer+Science+Student;Always+learning+new+things"" alt="Typing SVG" /></a><p align="left">
   <img src="https://komarev.com/ghpvc/?username=hishamabdalla&label=Profile%20views&color=0e75b6&style=flat" alt="hishamabdalla" />
 </p>
-<picture> <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"width = 400px></picture>
 
 
 - 🔭 I’m a **Back-End Web Developer** using **.NET**  
 - 🎓 I’m a **Computer Science student** at **Mansoura University**  
 - 💡 I'm always ready to learn anything new and take on new challenges!
-- 💬 Ask me about **ASP.NET, C#, SQL Server, and Software Architecture**  
 - 📫 Reach me at **hishvmabdalla@gmail.com**  
 - 📄 Check out my **Resume** [here](https://drive.google.com/file/d/1XQ36HtfVoUx7SlKtpfdbEqGaPlb94kk4/view?usp=drive_link)
 

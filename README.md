@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Hisham Abdalla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&center=true&vCenter=true&width=600&height=100&lines=Back+End+Developer;Computer+Science+Student;Always+learning+new+things"" alt="Typing SVG" /></a><p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hishamabdalla&label=Profile%20views&color=0e75b6&style=flat" alt="hishamabdalla" />
+  <img src="https://komarev.com/ghpvc/?username=hishamabdalla&label=Profile%20views&color=0e75b6&style=flat" alt="hishamabdalla" /> 
 </p>
 <picture> <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"width = 400px></picture>
 

@@ -7,10 +7,10 @@
 
 
 - 🔭 I’m a **Back-End Web Developer** using **.NET**  
-- 🎓 I’m a **Computer Science student** at **Mansoura University**  
+- 🎓 I’m a **Computer Science Graduate** From **Mansoura University**  
 - 💡 I'm always ready to learn anything new and take on new challenges! 
 - 📫 Reach me at **hishvmabdalla@gmail.com**  
-- 📄 Check out my **Resume** [here](https://drive.google.com/file/d/1gWOyA1PXx55n39jjGFhVXCs7uYtEc2b2/view?usp=sharing)
+- 📄 Check out my **Resume** [here](https://drive.google.com/file/d/1pwVsfnR3ESYuKv1FKxXLPlnQjKoy1DzO/view?usp=sharing)
 
   <br>
 #

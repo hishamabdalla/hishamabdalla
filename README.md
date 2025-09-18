@@ -25,7 +25,7 @@
   <a href="mailto:hishvmabdalla@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
   </a>
-  <a href="https://www.linkedin.com/in/hisham-abdalla-/" target="_blank">
+  <a href="https://www.linkedin.com/in/hishamabdalla22/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a href="https://github.com/hishamabdalla/" target="_blank">
